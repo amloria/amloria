@@ -1,6 +1,6 @@
 - 👋 Hi there! I'm Agustin, a junior Fullstack Web Developer based in Brittany.
 - 👾 I’m interested in Web and Software Development, JavaScript, React, Node.js, Express, MongoDB, APIs and tech in general !
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning TypeScript and Software Architecture using Industry-Standard Patterns.
 - 🎯 My goal is to help people by creating accessible, high quality and performing web applications.
 - 📫 How to reach me: https://amloria.com
 
