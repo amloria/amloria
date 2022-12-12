@@ -1,4 +1,4 @@
-- 👋 Hi there! I'm Agustin, a junior fullstack developer based in Brittany.
+- 👋 Hi there! I'm Agustin, a junior Fullstack Web Developer based in Brittany.
 - 👾 I’m interested in Web and Software Development, JavaScript, React, Node.js, Express, MongoDB, APIs and tech in general !
 - 🌱 I’m currently learning TypeScript.
 - 🎯 My goal is to help people by creating accessible, high quality and performing web applications.
