@@ -1,5 +1,5 @@
 - 👋 Hi there! I'm Agustin, a Software Developer based in Brittany.
-- 👾 I’m interested in JavaScript, TypeScript, React, Next.js, Angular, UX-UI, accessibility and scalability !
+- 🎨 I’m interested in JavaScript, TypeScript, React, Next.js, Angular, UX-UI, accessibility and scalability !
 - 🌱 Permanently willing to learn new things and improve my skills.
 - 🎯 My goal is to help people by creating accessible, high quality and performing web applications.
 
